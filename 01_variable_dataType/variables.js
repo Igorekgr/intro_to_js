@@ -1,6 +1,5 @@
 let name = 'Igor Zverev';
 
-
 let age = 34;
 
 let isStudent = true;
@@ -13,6 +12,4 @@ let person = {
     age : 34
 }
 
-
 console.log(typeof person);
-
